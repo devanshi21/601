@@ -1,0 +1,6 @@
+Day: 23rd Sept
+
+find the longitude common in both files
+find the latitude common in both files
+
+find a way to find the rows with longitude and latitude both 
